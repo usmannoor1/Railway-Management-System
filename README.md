@@ -1,0 +1,2 @@
+# Railway-Management-System
+A web-based application that is designed to store, process, retrieve information concerned with the administrative and inventory management within a blood bank.
